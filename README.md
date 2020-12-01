@@ -2,7 +2,7 @@
 
 ## installation
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-cloud/QRCode-Telegram-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rocky572/QRCode-Telegram-bot)
 
 Libraries used: => Pyrogram => Telegraph
 
