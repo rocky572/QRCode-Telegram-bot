@@ -27,7 +27,7 @@ async def start(client, message):
 async def qrcode(client, message):
     qr = await client.send_message(
         chat_id=message.chat.id,
-        text=f"Making your QR Code... 😁",
+        text=f"Creating Your Qr Code..😇",
         reply_to_message_id=message.message_id  
     )
     s = str(message.text)
