@@ -7,5 +7,5 @@
 import os
 
 class msg():
-    start = "\nThis is a QR code generator bot by @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @thankappan369"
+    start = "\n✳️This is a QR code generator bot by @Pirated143✳️</b>"
+    error = "something is went wrong\n{error} \ncontact admin @Pirated143"
